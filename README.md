@@ -23,5 +23,9 @@ after that we need to install another dependency for the calendar to be created 
 
 Install date library (if not already installed)
     
-    npm install dayjs
+    npm install date-fns
+
+then we can work on the calendar part there is a landscape calendar orientation in the mui page and there is code for that given there by some sort i can't get the code that i need there is dayjs there and not date-fns. so i will paste the code here just in case needed
+
+    
 
